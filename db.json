@@ -1,0 +1,79 @@
+{
+  "users": [
+    {
+      "name": "Brandon Reichert",
+      "id": 2
+    },
+    {
+      "name": "Benjamin Moen",
+      "id": 3
+    },
+    {
+      "name": "Virginia Roberts Sr.",
+      "id": 4
+    },
+    {
+      "name": "Linda Lind",
+      "id": 5
+    }
+  ],
+  "albums": [
+    {
+      "userId": 3,
+      "title": "Tasty Bronze Shoes",
+      "id": 4
+    },
+    {
+      "userId": 2,
+      "title": "Luxurious Fresh Cheese",
+      "id": 12
+    },
+    {
+      "userId": 2,
+      "title": "Gorgeous Metal Gloves",
+      "id": 13
+    },
+    {
+      "userId": 2,
+      "title": "Small Wooden Chair",
+      "id": 14
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7404208280043520",
+      "id": 1
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/640/480/abstract?lock=4619731449413632",
+      "id": 2
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/640/480/abstract?lock=4959590684819456",
+      "id": 3
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/640/480/abstract?lock=6576725016182784",
+      "id": 4
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/640/480/abstract?lock=1603294891868160",
+      "id": 6
+    },
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/640/480/abstract?lock=7644911539060736",
+      "id": 7
+    },
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/640/480/abstract?lock=8173444826923008",
+      "id": 8
+    }
+  ]
+}
